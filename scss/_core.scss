@@ -24,6 +24,7 @@
   display: var(--#{$fa-css-prefix}-display, #{$fa-display});
   font-style: normal;
   font-variant: normal;
+  line-height: 1;
   text-rendering: auto;
 }
 
