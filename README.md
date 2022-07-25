@@ -14,7 +14,7 @@
 ```
 https://raw.githubusercontent.com/<username>/<repo>/<branch>/path/to/file.css
 
-DEMO: https://raw.githubusercontent.com/duyplus/fontawesome-pro/master/css/all.css
+DEMO: https://raw.githubusercontent.com/duyplus/fontawesome-pro/master/css/all.min.css
 ```
 Use this URL to get the latest version:
 ```
